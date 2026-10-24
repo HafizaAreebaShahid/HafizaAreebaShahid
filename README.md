@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=68775C&height=200&section=header&text=Areeba%20Shahid&fontSize=42&fontColor=F7F3D6&fontAlignY=38&desc=BSCS%20Student%20%7C%20Python%20and%20Java%20%7C%20AI%20and%20Data%20Science&descSize=16&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=68775C&height=200&section=header&text=Hafiza%20Areeba%20Shahid&fontSize=42&fontColor=F7F3D6&fontAlignY=38&desc=BSCS%20Student%20%7C%20Python%20and%20Java%20%7C%20AI%20and%20Data%20Science&descSize=16&descAlignY=60" width="100%" />
 </p>
 
 <h1 align="center">Hello, I'm Hafiza Areeba Shahid</h1>
