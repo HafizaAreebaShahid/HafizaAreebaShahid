@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=200&section=header&text=Areeba%20Shahid&fontSize=42&fontColor=F5E6CC&fontAlignY=38&desc=BSCS%20Student%20%7C%20Python%20and%20Java%20%7C%20AI%20and%20Data%20Science&descSize=16&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=68775C&height=200&section=header&text=Areeba%20Shahid&fontSize=42&fontColor=F7F3D6&fontAlignY=38&desc=BSCS%20Student%20%7C%20Python%20and%20Java%20%7C%20AI%20and%20Data%20Science&descSize=16&descAlignY=60" width="100%" />
 </p>
 
-<h1 align="center">Hello, I'm  Hafiza Areeba Shahid</h1>
+<h1 align="center">Hello, I'm Hafiza Areeba Shahid</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=3500&pause=1000&color=800020&center=true&vCenter=true&width=650&lines=BSCS+Student;Python+Developer;Java+Learner;Beginning+AI+and+Data+Science" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=3500&pause=1000&color=68775C&center=true&vCenter=true&width=650&lines=BSCS+Student;Python+Developer;Java+Learner;Beginning+AI+and+Data+Science" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/HafizaAreebaShahid?style=for-the-badge&logo=github&label=Followers&color=800020" />
-  <img src="https://img.shields.io/github/stars/HafizaAreebaShahid?style=for-the-badge&logo=github&label=Stars&color=800020" />
-  <img src="https://komarev.com/ghpvc/?username=HafizaAreebaShahidE&style=for-the-badge&color=800020" />
+  <img src="https://img.shields.io/github/followers/HafizaAreebaShahid?style=for-the-badge&logo=github&label=Followers&color=68775C" />
+  <img src="https://img.shields.io/github/stars/HafizaAreebaShahid?style=for-the-badge&logo=github&label=Stars&color=68775C" />
+  <img src="https://komarev.com/ghpvc/?username=HafizaAreebaShahid&style=for-the-badge&color=68775C" />
 </p>
 
 <h2 align="center">About Me</h2>
@@ -22,7 +22,7 @@
 <td width="65%" valign="top">
 
 - 🎓 BSCS student
-- 🤖 Studying Artificial Intelligence and Data Science 
+- 🤖 Studying Artificial Intelligence and Data Science
 - 🐍 Completed Python fundamentals and Object-Oriented Programming
 - ☕ Currently learning Java, Git and GitHub
 
@@ -46,8 +46,9 @@
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HafizaAreebaShahid&hide_border=true&background=800020&ring=F5E6CC&fire=F5E6CC&currStreakLabel=F5E6CC&sideLabels=F5E6CC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=D9C7A8" />
+  <img src="https://streak-stats.demolab.com?user=HafizaAreebaShahid&hide_border=true&background=68775C&ring=D9D18B&fire=D9D18B&currStreakLabel=F7F3D6&sideLabels=F7F3D6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=D9D18B" />
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/HafizaAreebaShahid/HafizaAreebaShahid/output/github-snake.svg" alt="Contribution snake animation" />
 </p>
@@ -58,12 +59,10 @@
   Fundamentals of AI and Data Science · Java and object-oriented design · Data structures and problem solving
 </p>
 
-
-
 <p align="center">
   Learning one commit at a time.
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=68775C&height=100&section=footer" />
 </p>
