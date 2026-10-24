@@ -25,7 +25,6 @@
 -  Studying Artificial Intelligence and Data Science
 -  Completed Python fundamentals and Object-Oriented Programming
 -  Currently learning Java, Git and GitHub
-
 </td>
 
 <td width="35%" align="center" valign="middle">
