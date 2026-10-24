@@ -23,7 +23,7 @@
 
 -  BSCS student
 -  Studying Artificial Intelligence and Data Science
--  Completed Python fundamentals and Object-Oriented Programming
+-  Completed Python fundamentals and Object-Oriented Programming in java and python
 -  Currently learning Java, Git and GitHub
 </td>
 
