@@ -39,8 +39,7 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" /></p>
 
 <h2 align="center">GitHub Analytics</h2>
 
