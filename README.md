@@ -49,9 +49,7 @@
   <img src="https://streak-stats.demolab.com?user=HafizaAreebaShahid&hide_border=true&background=68775C&ring=D9D18B&fire=D9D18B&currStreakLabel=F7F3D6&sideLabels=F7F3D6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=D9D18B" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HafizaAreebaShahid/HafizaAreebaShahid/output/github-snake.svg?v=2" alt="Contribution snake animation" />
-</p>
+<img src="https://raw.githubusercontent.com/HafizaAreebaShahid/HafizaAreebaShahid/output/github-snake.svg?v=3" alt="Contribution snake animation" />
 
 <h2 align="center">Currently Learning</h2>
 
