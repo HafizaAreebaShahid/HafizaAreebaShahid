@@ -21,10 +21,10 @@
 
 <td width="65%" valign="top">
 
-- 🎓 BSCS student
-- 🤖 Studying Artificial Intelligence and Data Science
-- 🐍 Completed Python fundamentals and Object-Oriented Programming
-- ☕ Currently learning Java, Git and GitHub
+-  BSCS student
+-  Studying Artificial Intelligence and Data Science
+-  Completed Python fundamentals and Object-Oriented Programming
+-  Currently learning Java, Git and GitHub
 
 </td>
 
