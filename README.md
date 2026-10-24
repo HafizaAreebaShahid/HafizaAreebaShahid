@@ -30,7 +30,7 @@
 
 <td width="35%" align="center" valign="middle">
 
-<img src="mascot.png" width="160" alt="Mascot" />
+<img src="https://raw.githubusercontent.com/HafizaAreebaShahid/HafizaAreebaShahid/main/mascot.png" width="160" alt="Mascot" />
 
 </td>
 
@@ -50,19 +50,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HafizaAreebaShahid/HafizaAreebaShahid/output/github-snake.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/HafizaAreebaShahid/HafizaAreebaShahid/output/github-snake.svg?v=2" alt="Contribution snake animation" />
 </p>
 
 <h2 align="center">Currently Learning</h2>
 
 <p align="center">
-  Fundamentals of AI and Data Science · Java and object-oriented design · Data structures and problem solving
-</p>
-
-<p align="center">
-  Learning one commit at a time.
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=68775C&height=100&section=footer" />
-</p>
+  Fundamentals of AI and Data Science · Java and object-oriented
