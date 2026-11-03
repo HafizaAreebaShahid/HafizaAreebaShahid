@@ -1,0 +1,34 @@
+name: Save Streak Card
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  save:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download streak card
+        run: |
+          mkdir -p cards
+          for i in 1 2 3 4 5; do
+            curl -fsSL --max-time 60 "https://streak-stats.demolab.com/?user=HafizaAreebaShahid&hide_border=true&background=68775C&ring=D9D18B&fire=D9D18B&currStreakLabel=F7F3D6&sideLabels=F7F3D6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=D9D18B" -o cards/streak.tmp \
+              && grep -q "<svg" cards/streak.tmp \
+              && mv cards/streak.tmp cards/streak.svg && break
+            sleep 20
+          done
+          rm -f cards/streak.tmp
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add cards
+          git commit -m "Update streak card" || exit 0
+          git push
