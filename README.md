@@ -21,10 +21,11 @@
 
 <td width="65%" valign="top">
 
--  BSCS student
--  Studying Artificial Intelligence and Data Science
--  Completed Python fundamentals and Object-Oriented Programming 
--  Currently learning Java, Data Structure & Algorithm, DBMS ,Git and GitHub
+- BSCS student
+- Studying Artificial Intelligence and Data Science
+- Completed Python fundamentals and Object-Oriented Programming
+- Currently learning Java, Data Structures & Algorithms, DBMS, Git and GitHub
+
 </td>
 
 <td width="35%" align="center" valign="middle">
@@ -39,17 +40,17 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" /></p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" />
+</p>
 
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HafizaAreebaShahid&hide_border=true&background=68775C&ring=D9D18B&fire=D9D18B&currStreakLabel=F7F3D6&sideLabels=F7F3D6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=D9D18B" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/HafizaAreebaShahid/HafizaAreebaShahid/output/github-snake.svg?v=3" alt="Contribution snake animation" />
 </p>
-
-<img src="https://raw.githubusercontent.com/HafizaAreebaShahid/HafizaAreebaShahid/output/github-snake.svg?v=3" alt="Contribution snake animation" />
 
 <h2 align="center">Currently Learning</h2>
 
 <p align="center">
-  Fundamentals of AI and Data Science · Java and object-oriented
+  Fundamentals of AI and Data Science · Java and Object-Oriented Programming · Data Structures and Algorithms · DBMS · Git and GitHub
+</p>
